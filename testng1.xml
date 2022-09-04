@@ -6,6 +6,7 @@
 	<run>
 
 		<include name="sanity" />
+		<include name="regression" />
 	</run>
 
 </groups>
